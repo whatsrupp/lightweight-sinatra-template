@@ -6,9 +6,10 @@ In fairness to Rails, the documentation is fantastic and it's a very powerful to
 
 Note, this isn't a Sinatra tutorial, I would recommend only using this once you understand the basic Model, View, Controller set up of web applications with Sinatra!
 
+
 ## Usage
 
-I'm thinking about whacking this on Bundler as that could be quite a fun side project, however, to be fair, someone has probably already done it. For now, it'll have to sit as a repository based tool!
+I'm thinking about whacking this on Bundler as that could be quite a fun side project, however, to be fair, someone has probably already done it (Update: [yes they have](https://rubygems.org/gems/sinatra-template)). For now, it'll have to sit as a repository based tool!
 
 ### Clone the repository
 
